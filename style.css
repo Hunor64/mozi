@@ -1,0 +1,41 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    letter-spacing: 3px;
+    font-variant: small-caps;
+    size: 300%;
+}
+table{
+    width: 1000px;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+}
+tr{
+    margin: 10px;
+}
+td{
+    border: 2px solid black;
+    min-width: 190px;
+}
+.fejlec{
+    background-color: RGB(26,25,25);
+    color: white;
+    size: 120%;
+}
+span{
+    width: 40px;
+    height: 15px;
+    background-color: orange;
+    border: 2px solid RGB(206,98,9);
+    margin: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+img{
+    height: 300px;
+    border-radius: 18px;
+    padding: 10px;
+}
